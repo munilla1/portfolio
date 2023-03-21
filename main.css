@@ -1,0 +1,156 @@
+#body {
+    background-image: url(./imagenes/elegant-violet-background-3112.png);
+}
+
+#menu {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(145, 67, 208);
+}
+
+#color_menu {
+    color: rgb(251, 242, 231);
+}
+
+#nombre {
+    padding-top: 15px;
+    border-top-style: double;
+    border-color: black;
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+}
+
+#proyectos {
+    padding-top: 15px;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+#presentacion {
+    font-size: 20px;
+    color: rgb(251, 242, 231);
+    border-top-width: 2px;
+    border-color: black;
+    border-bottom-style: double;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#cartas {
+    padding-bottom: 15px;
+    border-bottom-style: double;
+}
+
+#contratacion {
+    padding-top: 15px;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+#texto_contratacion {
+    color: rgb(251, 242, 231);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+#pic1 {
+    background-color: rgb(251, 242, 231);
+    margin: 15px;
+    padding: 15px;
+}
+
+#pic2 {
+    background-color: rgb(251, 242, 231);
+    margin: 15px;
+    padding: 15px;
+}
+
+#pic3 {
+    background-color: rgb(251, 242, 231);
+    margin: 15px;
+    padding: 15px;
+}
+
+#n {
+    max-width: 50px;
+    max-height: 50px;
+    margin: 20px;
+}
+
+#C {
+    max-width: 50px;
+    max-height: 50px;
+    margin: 20px;
+}
+
+#acordeon {
+    background-color: rgb(251, 242, 231);
+}
+
+#tabla {
+    padding-bottom: 80px;
+}
+
+#aprender {
+    background-color: rgb(230, 109, 173);
+    padding: 20px;
+    border: 2px;
+    border-color: rgb(251, 242, 231);
+    border-style: ridge;
+}
+
+#mercado {
+    background-color: rgb(230, 109, 173);
+    padding: 20px;
+    border: 2px;
+    border-color: rgb(251, 242, 231);
+    border-style: ridge;
+}
+
+#concienciacion {
+    background-color: rgb(230, 109, 173);
+    padding: 20px;
+    border: 2px;
+    border-color: rgb(251, 242, 231);
+    border-style: ridge;
+}
+
+#creatividad {
+    background-color: rgb(230, 109, 173);
+    padding: 20px;
+    border: 2px;
+    border-color: rgb(251, 242, 231);
+    border-style: ridge;
+}
+
+#critico {
+    background-color: rgb(230, 109, 173);
+    padding: 20px;
+    border: 2px;
+    border-color: rgb(251, 242, 231);
+    border-style: ridge;
+}
+
+#equipo {
+    background-color: rgb(230, 109, 173);
+    padding: 20px;
+    border: 2px;
+    border-color: rgb(251, 242, 231);
+    border-style: ridge;
+}
+
+#datos {
+    padding-top: 30px;
+}
+
+#titulo1 {
+    color: rgb(251, 242, 231);
+    margin-left: 40px;
+}
+
+#parrafo {
+    margin-left: 80px;
+}
+
+#titulo2 {
+    color: rgb(251, 242, 231);
+    margin-left: 40px;
+}
